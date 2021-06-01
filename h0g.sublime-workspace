@@ -1,0 +1,336 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"_r",
+				"_r_IN7"
+			],
+			[
+				"di",
+				"digitalWrite"
+			],
+			[
+				"read",
+				"readings"
+			],
+			[
+				"re",
+				"readings"
+			],
+			[
+				"_mux",
+				"_mux2_SIG"
+			],
+			[
+				"digi",
+				"digitalRead"
+			],
+			[
+				"_mu",
+				"_mux2_SIG"
+			],
+			[
+				"ph",
+				"pH_max"
+			],
+			[
+				"p",
+				"ph_min"
+			],
+			[
+				"_in",
+				"_init_readings"
+			],
+			[
+				"_ini",
+				"_init_or"
+			],
+			[
+				"op",
+				"opt_range"
+			],
+			[
+				"str",
+				"struct	struct"
+			],
+			[
+				"EC",
+				"ECdata"
+			],
+			[
+				"ec",
+				"ECdata"
+			],
+			[
+				"pH",
+				"pHdata"
+			],
+			[
+				"LOG",
+				"LOG_HEADER"
+			],
+			[
+				"tm_",
+				"tm_mday"
+			],
+			[
+				"time",
+				"timebuffer"
+			],
+			[
+				"times",
+				"timestamp"
+			],
+			[
+				"Y",
+				"Y0"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"MUX",
+				"MUX_1"
+			],
+			[
+				"M",
+				"MUX_1"
+			],
+			[
+				"sta",
+				"state_S1"
+			],
+			[
+				"DIS_S",
+				"DIS_SG"
+			],
+			[
+				"EN_S",
+				"EN_SRM"
+			],
+			[
+				"E",
+				"EN_CRM"
+			],
+			[
+				"S",
+				"S0"
+			],
+			[
+				"OUT",
+				"OUT"
+			],
+			[
+				"S1",
+				"S1_pin"
+			],
+			[
+				"S0",
+				"S0_pin"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"ser",
+				"serialRead_funcion"
+			],
+			[
+				"print",
+				"printf	printf …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/var/www/printdata.php",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/var/www/css/general.css",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/var/www/index.php",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/var/www/css/printdata.css",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/Makefile",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/continous_reading.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/control_inv.h",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/control_inv.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/_init_GPIO.sh",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/serialRead_funcion.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/echo_test.sh",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi/examples/Makefile",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/time_Stamp2.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/timestamp.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/popen_ex.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/gpio.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi/examples/q2w/binary.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/serialRead.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi/examples/serialRead.c",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/src/my.txt",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi/examples/serialRead.c.mine1",
+		"/home/rednik/.gvfs/SFTP for root on 10.42.0.71/home/pi/h0g/libraries/wiringPi/examples/serialRead"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"566600",
+			"llenar",
+			"pch",
+			"path",
+			"4",
+			"i",
+			"  ",
+			";\n",
+			"0",
+			"};",
+			"0",
+			"};\n",
+			"SIG",
+			"timeSta",
+			"timm",
+			"tm_",
+			"i",
+			"Tm",
+			"errno",
+			"}*/\n",
+			"Reader",
+			"toggl",
+			"toggle",
+			"INPUT",
+			"open",
+			"digi",
+			"argc",
+			"export"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"str",
+			"Tm",
+			"timm->tm_",
+			"timm",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true
+}
