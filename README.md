@@ -464,6 +464,47 @@ The most impactful improvements would be:
 - store calibration history
 - add tests for dosing calculations and alarm logic
 
+## Future vision
+
+Beyond stabilizing the current prototype, HAOS could evolve into a broader intelligent cultivation and traceability platform.
+
+### AI assisted crop health monitoring
+
+One natural extension is AI based pest and disease detection. With camera modules or external IP cameras, HAOS could capture plant images at regular intervals and run computer vision models to detect:
+
+- early pest presence
+- leaf discoloration or spotting
+- growth anomalies
+- nutrient stress indicators
+- visible mold or fungal development
+
+Those detections could be stored alongside pH, EC, temperature, and humidity readings so the system provides both environmental telemetry and visual crop health signals in the same dashboard.
+
+### Fair trade and traceability network
+
+Another strategic direction is blockchain backed traceability. Instead of using HAOS only as a local controller, cultivation events could also become signed production records for a fair trade produce network.
+
+In that model, HAOS could record and export:
+
+- crop configuration and growth cycles
+- calibration checkpoints
+- irrigation and dosing events
+- alarm history
+- harvest timestamps
+- operator or certification actions
+
+Anchoring those records to a blockchain or other tamper evident ledger could help growers, buyers, certifiers, and cooperatives verify provenance, production practices, and quality milestones more transparently.
+
+### Combined platform opportunity
+
+Taken together, AI pest detection and traceable cultivation records would move HAOS from a local hydroponic controller toward a larger agricultural platform that supports:
+
+- smarter crop monitoring
+- earlier intervention on plant health issues
+- stronger trust between growers and buyers
+- fair trade verification workflows
+- data driven marketplace participation for small and mid sized producers
+
 ## Contributing
 
 Contributions are welcome. This repository would benefit from both hardware aware contributors and software maintainers.
