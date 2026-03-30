@@ -1,0 +1,26 @@
+#cuerpo{
+	background-color: #009999;
+	color: #FFFFFF;
+    width: 100%;
+    text-align: center;
+}
+
+th{
+	width: 180px;
+	text-align: right;
+	color: #000000;
+}
+
+td{
+	width: 180px;
+	text-align: right;
+	color: #FFFFFF;
+}
+
+#alarmas{
+	background-color: #CC0000;
+	color: #CC0000;
+    width: 100%;
+    text-align: center;
+    padding-left: 400px;
+}

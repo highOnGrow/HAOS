@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background-color: #F0FFFF;
+}
+
+footer{
+	color: #000000;
+	text-align: center;
+}
+
+#cuerpo_principal{
+
+	height: 400px;
+	width: 100%;
+	text-align: center;
+}
+
+
+#cuerpo_principal > table {
+
+	width: 300px;
+	border: 0px;
+	padding-left: 450px; 
+	text-align: center;
+}
+
+
+#cuerpo_principal > table > tr > td > b {
+	font-size: 8px;
+	color: #445577;
+}
